@@ -46,9 +46,9 @@ export default function Home() {
             </Link>
             <a
               href="#"
-              className={styles.card}
+              className={styles.cardno}
             >
-              <h3 style={{ color: "#444"}}>Writing (Disabled) &rarr;</h3>
+              <h3>Writing (Disabled) &rarr;</h3>
               <p>
                 New content coming soon.
               </p>
