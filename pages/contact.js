@@ -13,6 +13,15 @@ export default function Contact() {
         <Head>
           <title>Contact Ed, htmelvis Digital Marketing and Web Development</title>
           <link rel="icon" href="/favicon.ico" />
+          <meta name="description" content="Business growth for e-commerce by design and digital marketing. Transparent search engine marketing with a splash of design and user experience."/>
+            <meta property="og:type" content="website" />
+            <meta property="og:description" content="Business growth for e-commerce by design and digital marketing. Transparent search engine marketing with a splash of design and user experience." />
+            <meta property="og:url" content="https://htmelvis.com" />
+            <meta property="og:title" content="Web design, development and digital marketing expertise from Erie, PA" />
+            <meta property="og:image" content="https://htmelvis.com/logo.png" />
+            <meta property="twitter:card" content="summary" />
+            <meta property="twitter:site" content="@htmelvis" />
+            <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css' />
         </Head>
         <main className={styles.main}>
           <h1 className={styles.title}>
